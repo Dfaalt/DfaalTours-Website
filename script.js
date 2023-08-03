@@ -44,3 +44,5 @@ prevBtn.onclick = () => {
 
 // Tampilkan slide awal ketika halaman dimuat
 showSlide();
+
+
